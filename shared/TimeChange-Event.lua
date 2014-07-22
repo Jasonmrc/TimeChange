@@ -1,3 +1,5 @@
+--	TimeChange by JasonMRC of Problem Solvers.
+
 class 'TimeChangeEvent'
 
 function TimeChangeEvent:__init()
